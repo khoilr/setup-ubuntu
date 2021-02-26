@@ -8,7 +8,7 @@ Run in terminal:
 git clone https://github.com/b-ryan/powerline-shell && cd powerline-shell && sudo python3 setup.py install
 ```
 
-Copy the code block below and paste to *~/.bashrc*:
+Copy the code block below and paste to end of *~/.bashrc*:
 
 ```bash
 function _update_ps1() {
@@ -29,6 +29,7 @@ mkdir -p ~/.config/powerline-shell && \powerline-shell --generate-config > ~/.co
 Copy folder **powerline-shell** and paste to **~/.config**
 
 ![This is my terminal](./terminal.jpg)
+
 > Config segments in *./powerline-shell/config.json*
 >
 > Config theme in *./powerline-shell/themes/default.py*
