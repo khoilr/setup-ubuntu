@@ -36,7 +36,7 @@ Copy folder **powerline-shell** and paste to **~/.config**
 
 ## Install apache2 mysql php8.0
 
-Copy *InstallPHP8.0MariaDB.sh* to current working older
+Copy *InstallPHP8.0MariaDB.sh* to current working folder
 
 Run in terminal:
 
