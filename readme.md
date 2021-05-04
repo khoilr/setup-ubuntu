@@ -46,10 +46,10 @@ sudo chmod +x ./InstallPHP8.0MariaDB.sh && sudo ./InstallPHP8.0MariaDB.sh
 
 > Notice announcements in terminal
 
-## Install JDK 15
+## Install JDK 16
 
 Run in terminal:
 
 ```bash
-sudo add-apt-repository ppa:linuxuprising/java && sudo apt update && sudo apt install oracle-java15-installer
+sudo add-apt-repository ppa:linuxuprising/java && sudo apt update && sudo apt install oracle-java16-installer
 ```
